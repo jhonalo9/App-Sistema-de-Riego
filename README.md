@@ -19,4 +19,5 @@ samples, guidance on mobile development, and a full API reference.
 Clone the repository and run the following commands:
 
 flutter pub get
+
 flutter run
